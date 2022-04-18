@@ -2,7 +2,7 @@
 
 <p align="center">
   <b><h1 align="center">SISTEM OLAH CITRA CABAI</h1></b>
-  <b align="center>Digital Image Processing System Using Matlab</b><br>
+  <b><align="center">Digital Image Processing System Using Matlab</b><br>
 </p>
 
 <br />
